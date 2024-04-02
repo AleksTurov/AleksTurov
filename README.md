@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleksTurov
 - 👀 I'm interested in a data scientist
 - 🌱 I'm currently studying the Yandex.Practice course
-- 💞️ My e-mail for communication Lexa-turov@ya.ru.
+- 💞️ My e-mail for communication turov.oeg@gmail.com.
 
 <!---
 AleksTurov/AleksTurov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
