@@ -1,4 +1,4 @@
-Aleksei Turov | Senior Data Scientist
+Aleksei Turov | Senior Data Scientist  
 Welcome to my GitHub portfolio!
 I am a Senior Data Scientist with a background in machine learning, data analysis, and software development. This repository contains projects that highlight my work in data science.
 
